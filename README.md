@@ -1,3 +1,7 @@
+NOTICE: please use https://github.com/0x2593/Eden-NS2/ from now on, thank you :D
+
+
+
 <!--
 # SPDX-FileCopyrightText: Copyright 2025 Eden Emulator Project
 # SPDX-License-Identifier: GPL-3.0-or-later
